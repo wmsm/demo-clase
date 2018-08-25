@@ -31,3 +31,5 @@ hipervinculo: www.google.com
 a checho le gusta la tranca de Nora
 
 # Checho marica
+
+checho madure, deje de ser gay
