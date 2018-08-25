@@ -34,4 +34,6 @@ a checho le gusta la tranca de Nora
 
 # Checho marica
 
+Voy a hacer un cambio directamente desde visual studio code
+
 checho madure, deje de ser gay
