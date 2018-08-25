@@ -25,3 +25,9 @@ palabras en **negrita**
 palabras en *cursiva*
 
 hipervinculo: www.google.com
+
+---
+
+a checho le gusta la tranca de Nora
+
+# Checho marica
