@@ -21,6 +21,7 @@ djñlaksfjñwoe
 ---
 
 palabras en **negrita**
+
 palabras en *cursiva*
 
 hipervinculo: www.google.com
